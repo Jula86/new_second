@@ -1,0 +1,185 @@
+    1  ssh-keygen
+    2  cat(/c/Users/ICH/.ssh/id_rsa):
+    3  cat /c/Users/ICH/.ssh/id_rsa
+    4  cat /c/Users/ICH/.ssh/id_rsa.pub
+    5  ls/c/Users/ICH/.ssh/
+    6  ls/c/Users/ICH/.ssh
+    7  cat /c/Users/ICH/.ssh/id_rsa
+    8  ssh -i /c/Users/ICH/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+    9  ssh /c/Users/ICH/.ssh/id_rsa
+   10  ssh -i  /c/Users/ICH/.ssh/id_rsa
+   11   ssh -i /c/Users/ICH/.ssh/id_rsa
+   12   ec2-user@linux.itcareerhub.de
+   13  ssh -i ~/c/Users/ICH/.ssh/id_rsaec2-user@linux.itcareerhub.de
+   14  ssh -i ~/ICH/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   15   
+   16  ssh -i ~/ich/.ssh/id_rsa  eca2-user@linux.itcareerhub.de
+   17  ssh -i /c/Users/ICH/ich/.ssh/id_rsa  eca2-user@linux.itcareerhub.de
+   18  ssh -i ~ /ICH/.ssh/id_rsa  eca2-user@linux.itcareerhub.de
+   19  ssh -i /c/Users/ICH/.ssh/id_rsa  eca2-user@linux.itcareerhub.de
+   20  ssh -i /c/Users/ICH/.ssh/id_rsa eca2-user@linux.itcareerhub.de
+   21  ssh -i ~/.ssh/id_rsa eca2-user@linux.itcareerhub.de
+   22  ssh -i C:/Users/ICH/.ssh/id_rsa eca2-user@linux.itcareerhub.de
+   23  chmod 600 ~/.ssh/id_rsa
+   24  history| grep /.ssh
+   25   ssh -i ~/ICH/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   26  ssh -i ~/ICH/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   27  exit
+   28  ssh -i ~/ICH/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   29  git config --global user.name "Julia"
+   30  git config --global user.email "juliafocht1986@gmail.com"
+   31  git config --list
+   32  pwd
+   33  mkdir ~/new_repo_first
+   34  cd  new_repo_first
+   35   cd  new_repo_first/
+   36  git init
+   37  ls  -la
+   38  touch file.txt
+   39  ls -la
+   40  git add file.txt
+   41  git status
+   42  git commit -m "first commit"
+   43  git status
+   44  git remote add origin https://github.com/Jula86/new_repo_first.git
+   45  git push -u origin
+   46  git branch -M main
+   47  git push -u origin main
+   48  git remote add origin https://github.com/Jula86/new_repo_first.git
+   49  git remote add origin https://github.com/Jula86/new_repo_first.git
+   50  git remote add origin https://github.com/Jula86/new_repo_first.git
+   51  git remote add origin https://github.com/Jula86/new_repo_first.git--set-upstream origin main
+   52  git remote add origin https://github.com/Jula86/new_repo_first.git--set-upstream origin main
+   53  git push -u origin main
+   54  git config 
+   55  touch .gitignore
+   56  curl -O https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+   57  ssh -i ~/ICH/.ssh/id_rsa eca-user@linux.itcareerhub.de
+   58   ssh -i ~/ICH/.ssh/id_rsa eca-user@linux.itcareerhub.de
+   59  ssh -i ~ /.ssh/id_rsa eca-user@linux.itcareerhub.de
+   60  ssh -i ~----BEGIN OPENSSH PRIVATE KEY-----
+   61  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
+   97  -----END OPENSSH PRIVATE KEY-----
+   98  ssh -i /c/Users/ICH/.ssh/id_rsa eca-user@linux.itcareerhub.de
+   99  ssh -i ~/ICH/.ssh/id_rsa eca-user@linux.itcareerhub.de
+  100  ssh -i ~/ICH/.ssh/id_rsa eca2-user@linux.itcareerhub.de
+  101  ssh -i /c/Users/ICH/.ssh/id_rsa eca2-user@linux.itcareerhub.de
+  102  ssh -i ~ /ICH/.ssh/id_rsa eca2-user@linux.itcareerhub.de
+  103  ssh -i /c/Users/ICH/.ssh/id_rsa eca2-user@linux.itcareerhub.de
+  104  ssh -i ~/ICH/.ssh/id_rsa eca2-user@linux.itcareerhub.de
+  105  ssh -i ~/ICH/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  106  vi/tmp/file.txt
+  107  ls
+  108  vi
+  109  vi /tmp/file.txt
+  110  mkdir git_intro
+  111  cd git_intro
+  112  git init
+  113  git branch -m master main
+  114  git push -u origin main
+  115  cp /c/users/ICH/downloads/meditation.jfif
+  116  cp --help
+  117  cp /c/users/ICH/downloads/meditation.jfif /c/users/ICH/git_intro
+  118  git add meditation.jfif
+  119  git commit -m "Added photo"
+  120  git remote add origin git@github.com:Jula86/git_intro.git
+  121  git push -u origin main
+  122  ssh-keyscan github.com >> ~/.ssh/known_hosts
+  123  git push -u origin main
+  124  mkdir git-branch
+  125  cd git-branch
+  126  git init
+  127  git checkout -b gitignore
+  128  vi .gitignore
+  129  git add .gitignore
+  130  git commit -m "Добавлен файл .gitignore"
+  131  git push
+  132  git remote add origin <url>
+  133  git <remote> <git-branch>
+  134   git push < remote >  < git-branch >
+  135  git push < remote >  <github.com/Jula86/git-branch>
+  136  git push  github.com/Jula86/git-branch
+  137  git help config
+  138  git push --set-upstream github.com/Jula86/git-branch gitignore
+  139  git push  <github.com/Jula86/git-branch>
+  140  git push "< github.com/Jula86/git-branch>"
+  141  git remote add origin https://github.com/Jula86/git-branch.git
+  142  git push -u origin main
+  143  git push -u origin https://github.com/Jula86/git-branch.git
+  144  git push origin  git-branch
+  145  git push origin Jula86/git-branch.git
+  146  git push  https://github.com/Jula86/git-branch.git
+  147  ssh  -i ~/ICH/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+  148  git init
+  149  git branch -M main
+  150  echo "*.log" > .gitignore
+  151  git add .gitignore
+  152  git commit -m "Добавил .gitignore файл"
+  153  git push
+  154  git remote add origin https://github.com/Jula86/new_second.git
+  155  git clone  https://github.com/Jula86/new_second.git
+  156  cd new_second.git
+  157  cd github.com/Jula86/new_second.git
+  158  cd Jula86/new_second.git
+  159  cd new_second
+  160  git checkout -b feature
+  161  echo "# Проект" > README.md
+  162  echo "*.log" >> .gitignore
+  163  git add README.md .gitignore
+  164  git commit -m "Добавил изменения в README.md и .gitignore"
+  165  git push origin feature
+  166  git commit --amend -m "Добавил изменения в README.md и .gitignore [ammend]"
+  167  git push --force
+  168  git push --set-upstream origin feature
+  169  git push --help
+  170  git pull origin feature
+  171  git add .
+  172  git commit -m "Resolve merge conflicts"
+  173  git push --set-upstream origin feature
+  174  git config --global push.autoSetupRemote true
+  175  git push --force
+  176  git checkout main
+  177  git branch
+  178  git fetch
+  179  git branch -r
+  180  git checkout master
+  181  git checkout -b main
+  182  git push -u origin main
+  183  git merge feature
+  184  git push origin main
+  185  history > history.txt
